@@ -1,7 +1,9 @@
 <p align="left">Hello 👋 </p>
 
 <p align="left"> 📛: Edwin Takahashi</p>
-<p align="left">📍: Kyoto, Japan</p>
+<p align="left"> 📍: Kyoto, Japan</p>
+
+<p align="left"> 🌏: https://edwintakahashi.com/ </p>
 
 ###
 
